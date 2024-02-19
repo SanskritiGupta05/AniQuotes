@@ -6,6 +6,32 @@
 
 Welcome to the Anime Quotes Database! 🌟 This repository houses a collection of motivational anime quotes, along with the respective anime names and images.
 
+### Example:
+
+```json
+
+   {
+"quotes": [
+  {
+    "quote": "In The End, You Choose What You Choose.",
+    "animeName": "Attack on Titan",
+    "image": "https://i.pinimg.com/originals/3c/64/57/3c64570ebe8915e1114c7581536b29b8.gif"
+  },
+  {
+    "quote": "If You Hesitate For So Much As A Second, You'll Be Dead. The Moment You See An Opening, Go For The Kill..",
+    "animeName": "Attack on Titan",
+    "image": "https://pop-wrapped.s3-us-west-1.amazonaws.com/articles/81872/live-action-cast-attack-titan-unveiled-costume-1-med.gif"
+  },
+  {
+    "quote": "It Doesn't Matter How Strong The Opposition Is. It Doesn't Matter How Fearsome The World Is, It Doesn't Matter How Cruel The World Is. Fight!",
+    "animeName": "Attack on Titan",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Eren-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
+  }
+]
+}
+
+```
+
 ## How to Contribute
 
 We welcome contributions to enhance our database with more inspirational quotes from various anime series. Follow these steps to contribute:
