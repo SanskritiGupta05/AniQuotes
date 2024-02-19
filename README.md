@@ -94,7 +94,7 @@ Thank you for contributing to the Anime Quotes Database! Your contributions make
 
 ## Usage
 
-The quotes from this database are used in the [Anime Motivation Chrome Extension](). Feel free to check it out and contribute to both projects.
+The quotes from this database are used in the [Anime Motivation Chrome Extension](https://github.com/SanskritiGupta05/AniQuotes-Chrome-Extension/tree/main). Feel free to check it out and contribute to both projects.
 
 ## Code of Conduct
 
