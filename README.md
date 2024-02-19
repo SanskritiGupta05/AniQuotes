@@ -60,6 +60,7 @@ We welcome contributions to enhance our database with more inspirational quotes 
      ```
 
    - **Note:** The image must not be very large in size, and it must be a live image link (URL) rather than a static upload. GIFs are also welcome!
+   - **PLEASE Make sure the quote you are adding has not already been added to the Database!!**
 
 5. Save the changes.
 
