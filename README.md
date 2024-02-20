@@ -62,28 +62,40 @@ We welcome contributions to enhance our database with more inspirational quotes 
    - **Note:** The image must not be very large in size, and it must be a live image link (URL) rather than a static upload. GIFs are also welcome!
    - **PLEASE Make sure the quote you are adding has not already been added to the Database!!**
 
-5. Save the changes.
+or
 
-6. Commit your changes:
+5. Run the script `add_quote.py`
+   ```bash
+   python3 add_quote.py
+   ```
+
+6. Add a new quote
+
+   ![Screenshot 2024-02-19 222742](https://github.com/levo-777/AniQuotes/assets/148566093/3d5e6bfc-27c4-4f98-9fcf-7a4a46b55c8f)
+
+
+7. Save the changes
+   
+8. Commit your changes:
 
    ```bash
    git add db.json
    git commit -m "Add new motivational anime quote"
    ```
 
-7. Push your changes to your GitHub repository:
+9. Push your changes to your GitHub repository:
 
    ```bash
    git push origin main
    ```
 
-8. Create a Pull Request:
+10. Create a Pull Request:
 
    - Go to the [original repository](https://github.com/SanskritiGupta05/AniQuotes).
    - Click on "Pull Requests" and then "New Pull Request."
    - Choose the branch with your changes.
 
-9. Wait for your Pull Request to be reviewed and merged. Feel free to discuss and make any necessary changes as suggested by the maintainers.
+11. Wait for your Pull Request to be reviewed and merged. Feel free to discuss and make any necessary changes as suggested by the maintainers.
 
 Thank you for contributing to the Anime Quotes Database! Your contributions make this collection more diverse and inspirational.
 

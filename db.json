@@ -1,69 +1,94 @@
 {
-"quotes": [
-  {
-    "quote": "In The End, You Choose What You Choose.",
-    "animeName": "Attack on Titan",
-    "image": "https://i.pinimg.com/originals/3c/64/57/3c64570ebe8915e1114c7581536b29b8.gif"
-  },
-  {
-    "quote": "If You Hesitate For So Much As A Second, You'll Be Dead. The Moment You See An Opening, Go For The Kill..",
-    "animeName": "Attack on Titan",
-    "image": "https://pop-wrapped.s3-us-west-1.amazonaws.com/articles/81872/live-action-cast-attack-titan-unveiled-costume-1-med.gif"
-  },
-  {
-    "quote": "It Doesn't Matter How Strong The Opposition Is. It Doesn't Matter How Fearsome The World Is, It Doesn't Matter How Cruel The World Is. Fight!",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Eren-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "If There Are Humans Who Can Bring About Change, They're Those Who Are Capable Of Abandoning Everything. People Who, When Required To Surpass Even Monsters, Are Capable Of Tossing Aside Their Very Humanity..",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Armin-Arlert-from-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "I Don't Like The Terms 'Good Person' or 'Bad Person.' It Is Impossible To Be Entirely Good To Everyone. To Some, You Are A Good Person, While To Others, You Are A Bad Person.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/Armin-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "As Long As We Continue To Fight, We Are Not Defeated!",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/03/Attack-on-Titan-Miche.jpg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "If You Win, You Live. If You Lose, You Die. If You Don't Fight, You Can't Win!",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/Eren-Yeager.jpeg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "You Understand, Don’t You? One Day Or Another, Everyone You Care About Eventually Dies. It’s Something We Simply Can’t Accept. It’s A Realization That Could Drive You Insane.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Hange-Zoe-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
-  },
-  {
-    "quote": "You're Gonna Care What Other People Think And Be Someone You're Not Your Whole Life? You’re Fine As You Are. So, Talk In Your Own Words.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/02/Ymir-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=1.5"
-  },
-  {
-    "quote": "Everyone Had To Be Drunk On Somethin’ To Keep Pushing On … Everyone Was A Slave To Somethin’.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/attack-on-titan-kenny-the-ripper.jpg?q=50&fit=crop&w=500&dpr=1.5"
-  },
-  {
-    "quote": "This World Is Cruel, And It’s Also Very Beautiful.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/08/Mikasa-from-Attack-on-Titan-looking-up-surrounded-by-3D-gear-wires.jpg?q=50&fit=crop&w=500&dpr=1.5"
-  },
-  {
-    "quote": "No One Knows What The Outcome Will Be. So, Choose Whatever You'll Regret The Least.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Levi-Ackerman-from-Attack-on-Titan-in-a-white-shirt-with-the-collar-popped-upright.jpg?q=50&fit=crop&w=500&dpr=1.5"
-  },
-  {
-    "quote": "Everyone Had To Be Drunk On Somethin’ To Keep Pushing On … Everyone Was A Slave To Somethin’.",
-    "animeName": "Attack on Titan",
-    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/attack-on-titan-kenny-the-ripper.jpg?q=50&fit=crop&w=500&dpr=1.5"
-  }
-]
+  "quotes": [
+    {
+      "quote": "In The End, You Choose What You Choose.",
+      "animeName": "Attack on Titan",
+      "image": "https://i.pinimg.com/originals/3c/64/57/3c64570ebe8915e1114c7581536b29b8.gif"
+    },
+    {
+      "quote": "If You Hesitate For So Much As A Second, You'll Be Dead. The Moment You See An Opening, Go For The Kill..",
+      "animeName": "Attack on Titan",
+      "image": "https://pop-wrapped.s3-us-west-1.amazonaws.com/articles/81872/live-action-cast-attack-titan-unveiled-costume-1-med.gif"
+    },
+    {
+      "quote": "It Doesn't Matter How Strong The Opposition Is. It Doesn't Matter How Fearsome The World Is, It Doesn't Matter How Cruel The World Is. Fight!",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/03/Eren-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "If There Are Humans Who Can Bring About Change, They're Those Who Are Capable Of Abandoning Everything. People Who, When Required To Surpass Even Monsters, Are Capable Of Tossing Aside Their Very Humanity..",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Armin-Arlert-from-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "I Don't Like The Terms 'Good Person' or 'Bad Person.' It Is Impossible To Be Entirely Good To Everyone. To Some, You Are A Good Person, While To Others, You Are A Bad Person.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/02/Armin-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "As Long As We Continue To Fight, We Are Not Defeated!",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/03/Attack-on-Titan-Miche.jpg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "If You Win, You Live. If You Lose, You Die. If You Don't Fight, You Can't Win!",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/Eren-Yeager.jpeg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "You Understand, Don\u2019t You? One Day Or Another, Everyone You Care About Eventually Dies. It\u2019s Something We Simply Can\u2019t Accept. It\u2019s A Realization That Could Drive You Insane.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/Hange-Zoe-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=0.5"
+    },
+    {
+      "quote": "You're Gonna Care What Other People Think And Be Someone You're Not Your Whole Life? You\u2019re Fine As You Are. So, Talk In Your Own Words.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/02/Ymir-in-Attack-on-Titan.jpg?q=50&fit=crop&w=500&dpr=1.5"
+    },
+    {
+      "quote": "Everyone Had To Be Drunk On Somethin\u2019 To Keep Pushing On \u2026 Everyone Was A Slave To Somethin\u2019.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/attack-on-titan-kenny-the-ripper.jpg?q=50&fit=crop&w=500&dpr=1.5"
+    },
+    {
+      "quote": "This World Is Cruel, And It\u2019s Also Very Beautiful.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/08/Mikasa-from-Attack-on-Titan-looking-up-surrounded-by-3D-gear-wires.jpg?q=50&fit=crop&w=500&dpr=1.5"
+    },
+    {
+      "quote": "No One Knows What The Outcome Will Be. So, Choose Whatever You'll Regret The Least.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Levi-Ackerman-from-Attack-on-Titan-in-a-white-shirt-with-the-collar-popped-upright.jpg?q=50&fit=crop&w=500&dpr=1.5"
+    },
+    {
+      "quote": "Everyone Had To Be Drunk On Somethin\u2019 To Keep Pushing On \u2026 Everyone Was A Slave To Somethin\u2019.",
+      "animeName": "Attack on Titan",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/12/attack-on-titan-kenny-the-ripper.jpg?q=50&fit=crop&w=500&dpr=1.5"
+    },
+    {
+      "quote": "All men are not created equal",
+      "animeName": "My Hero Academia",
+      "image": ""
+    },
+    {
+      "quote": "Dreams can become reality!",
+      "animeName": "My Hero Academia",
+      "image": "https://i.pinimg.com/originals/ae/8f/64/ae8f64f435f2bade334b6c23a4fbd2be.jpg"
+    },
+    {
+      "quote": "All men are not created equal",
+      "animeName": "My Hero Academia",
+      "image": "https://s1.zerochan.net/Boku.no.Hero.Academia.600.3229991.jpg"
+    },
+    {
+      "quote": "When the enemy becomes certain of their victory, that will be our chance",
+      "animeName": "My Hero Academia",
+      "image": "https://media.comicbook.com/2019/06/my-hero-academia-fight-1176573.jpeg?auto=webp&width=696&height=391&crop=696:391,smart"
+    },
+    {
+      "quote": "The deeper the darkness the more dazzling the light shines!",
+      "animeName": "My Hero Academia",
+      "image": "https://i.pinimg.com/736x/f7/b5/4b/f7b54b7ec99f4d1eb09ef0bc862c78f1.jpg"
+    }
+  ]
 }
