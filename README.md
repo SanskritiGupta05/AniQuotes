@@ -6,7 +6,7 @@
 
 Welcome to the Anime Quotes Database! 🌟 This repository houses a collection of motivational anime quotes, along with the respective anime names and images.
 
-### Example:
+### Example: (`db.json`)
 
 ```json
 
